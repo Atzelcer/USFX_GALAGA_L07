@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\USFX_GALAGA_L07.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{722D8856-1E24-4CF1-AC62-5A730A769740}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\USFX_GALAGA_L07.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\USFX_GALAGA_L07Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7733B8FC-EF24-45AF-A824-3A19F52AE86D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\USFX_GALAGA_L07">
+      <UniqueIdentifier>{113417BE-8680-4E2D-B30C-190773F8072C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\USFX_GALAGA_L07\Capsulas_Enegia_03.cpp">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\USFX_GALAGA_L07\Capsulas_Enegia_03.h">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\USFX_GALAGA_L07\Capsulas_Energia_01.cpp">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\USFX_GALAGA_L07\Capsulas_Energia_01.h">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\USFX_GALAGA_L07\Capsulas_Energia_02.cpp">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\USFX_GALAGA_L07\Capsulas_Energia_02.h">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\USFX_GALAGA_L07\Capsulas_Energia_p.cpp">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\USFX_GALAGA_L07\Capsulas_Energia_p.h">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\USFX_GALAGA_L07\P_BIU_DIRECTOR.cpp">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\USFX_GALAGA_L07\P_BIU_DIRECTOR.h">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\USFX_GALAGA_L07\P_BUI_CONCRETO_CONS_CAPSULAS.cpp">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\USFX_GALAGA_L07\P_BUI_CONCRETO_CONS_CAPSULAS.h">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\USFX_GALAGA_L07\P_BUI_CONCRETO_SET_CAPSULAS.cpp">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\USFX_GALAGA_L07\P_BUI_CONCRETO_SET_CAPSULAS.h">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\USFX_GALAGA_L07\P_BUI_INT_SET_CAPSULAS.cpp">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\USFX_GALAGA_L07\P_BUI_INT_SET_CAPSULAS.h">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\USFX_GALAGA_L07\P_BU_INT_CONS_CAPSULAS.cpp">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\USFX_GALAGA_L07\P_BU_INT_CONS_CAPSULAS.h">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\USFX_GALAGA_L07\USFX_GALAGA_L07.Build.cs">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\USFX_GALAGA_L07\USFX_GALAGA_L07.cpp">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\USFX_GALAGA_L07\USFX_GALAGA_L07.h">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\USFX_GALAGA_L07\USFX_GALAGA_L07GameMode.cpp">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\USFX_GALAGA_L07\USFX_GALAGA_L07GameMode.h">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\USFX_GALAGA_L07\USFX_GALAGA_L07Pawn.cpp">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\USFX_GALAGA_L07\USFX_GALAGA_L07Pawn.h">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\USFX_GALAGA_L07\USFX_GALAGA_L07Projectile.cpp">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\USFX_GALAGA_L07\USFX_GALAGA_L07Projectile.h">
+      <Filter>Source\USFX_GALAGA_L07</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

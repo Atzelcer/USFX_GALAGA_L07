@@ -1,0 +1,7 @@
+D:\UNREAL_ENGINGE_4.27\USFX_GALAGA_L07\Intermediate\Build\Win64\UE4Editor\Development\USFX_GALAGA_L07\Definitions.USFX_GALAGA_L07.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UNREAL_ENGINGE_4.27\USFX_GALAGA_L07\Source\USFX_GALAGA_L07/Capsulas_Enegia_03.h
+D:\UNREAL_ENGINGE_4.27\USFX_GALAGA_L07\Source\USFX_GALAGA_L07\Capsulas_Energia_p.h
+D:\UNREAL_ENGINGE_4.27\USFX_GALAGA_L07\Intermediate\Build\Win64\UE4Editor\Inc\USFX_GALAGA_L07\Capsulas_Energia_p.generated.h
+D:\UNREAL_ENGINGE_4.27\USFX_GALAGA_L07\Intermediate\Build\Win64\UE4Editor\Inc\USFX_GALAGA_L07\Capsulas_Enegia_03.generated.h

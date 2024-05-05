@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UNREAL_ENGINGE_4.27\\USFX_GALAGA_L07\\Source\\USFX_GALAGA_L07\\USFX_GALAGA_L07.Build.cs",
+		"D:\\UNREAL_ENGINGE_4.27\\USFX_GALAGA_L07\\Source\\USFX_GALAGA_L07.Target.cs",
+		"D:\\UNREAL_ENGINGE_4.27\\USFX_GALAGA_L07\\Source\\USFX_GALAGA_L07Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
